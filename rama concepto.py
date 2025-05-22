@@ -1,0 +1,2 @@
+print("utilizo este archivo para ver como funcionan las ramas de git")
+print("este archivo es una rama")
